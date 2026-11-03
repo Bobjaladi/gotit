@@ -1,0 +1,35 @@
+name: Daily Questions
+
+on:
+  schedule:
+    - cron: "30 22 * * *"   # 22:30 UTC = 4:00 AM IST
+  workflow_dispatch:         # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install groq
+
+      - name: Generate questions
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python generate_questions.py
+
+      - name: Commit questions.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add questions.json
+          git diff --staged --quiet || git commit -m "Daily questions update"
+          git push
