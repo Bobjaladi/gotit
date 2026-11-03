@@ -6,7 +6,7 @@ MODEL_TEXT = "openai/gpt-oss-120b"   # for Aptitude, Reasoning, English
 MODEL_NEWS = "groq/compound"         # has built-in web search, for Current Affairs
 PER_CATEGORY = 20
 BATCH = 10                           # questions per call (keeps tokens/minute low)
-PAUSE = 45                           # seconds between calls
+PAUSE = 10                           # seconds between calls (raise to 20 if you see 429 errors)
 OUT_FILE = "questions.json"
 
 client = Groq(api_key=API_KEY)
@@ -123,8 +123,10 @@ def generate_category(category, desc, total):
             prompt = build_prompt(category, desc, ask, [r["question"] for r in results])
             raw = call_model(category, prompt)
         except Exception as e:
-            print(f"  [{category}] attempt {attempts} failed: {str(e)[:200]}")
-            time.sleep(60)
+            msg = str(e)
+            print(f"  [{category}] attempt {attempts} failed: {msg[:200]}")
+            # wait long only when Groq reports a rate limit
+            time.sleep(40 if ("429" in msg or "rate" in msg.lower()) else 5)
             continue
         for item in raw:
             q = clean(item, category)
@@ -134,7 +136,8 @@ def generate_category(category, desc, total):
                 if len(results) == total:
                     break
         print(f"  [{category}] {len(results)}/{total}")
-        time.sleep(PAUSE)
+        if len(results) < total:      # no pause after the last batch
+            time.sleep(PAUSE)
     return results
 
 
