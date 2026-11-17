@@ -1,202 +1,202 @@
 [
   {
-    "question": "Which country hosted the 2026 Asian Games?",
-    "optionOne": "China",
-    "optionTwo": "Japan",
-    "optionThree": "South Korea",
-    "optionFour": "Thailand",
-    "correctAns": "Japan",
-    "explanation": "The 20th Asian Games were held in Aichi-Nagoya, Japan, from September 19 to October 4, 2026.",
-    "category": "Sports"
-  },
-  {
-    "question": "How many total medals did India win at the 2026 Asian Games?",
-    "optionOne": "75",
-    "optionTwo": "85",
-    "optionThree": "95",
-    "optionFour": "105",
-    "correctAns": "85",
-    "explanation": "India won 85 medals, including 21 gold, 27 silver and 37 bronze medals, finishing fourth in the overall standings.",
-    "category": "Sports"
-  },
-  {
-    "question": "Which Indian athlete won the men's freestyle 57 kg wrestling gold at the 2026 Asian Games?",
-    "optionOne": "Bajrang Punia",
-    "optionTwo": "Aman Sehrawat",
-    "optionThree": "Deepak Punia",
-    "optionFour": "Ravi Dahiya",
-    "correctAns": "Aman Sehrawat",
-    "explanation": "Aman Sehrawat won the men's freestyle 57 kg gold medal at the 2026 Asian Games by defeating North Korea's Han Chong Song.",
-    "category": "Sports"
-  },
-  {
-    "question": "Who became the first Indian woman to win an individual Asian Games golf gold medal in 2026?",
-    "optionOne": "Aditi Ashok",
-    "optionTwo": "Pranavi Urs",
-    "optionThree": "Avani Prashanth",
-    "optionFour": "Diksha Dagar",
-    "correctAns": "Pranavi Urs",
-    "explanation": "Pranavi Urs created history by winning India's first women's individual golf gold medal at the Asian Games.",
-    "category": "Sports"
-  },
-  {
-    "question": "Which country did India defeat in the men's cricket final at the 2026 Asian Games?",
-    "optionOne": "Sri Lanka",
-    "optionTwo": "Bangladesh",
-    "optionThree": "Pakistan",
-    "optionFour": "Afghanistan",
-    "correctAns": "Pakistan",
-    "explanation": "India defeated Pakistan by 19 runs in the men's cricket final to win the gold medal at the 2026 Asian Games.",
-    "category": "Sports"
-  },
-  {
-    "question": "Where were the 2026 Commonwealth Games held?",
-    "optionOne": "Australia",
-    "optionTwo": "Canada",
-    "optionThree": "Scotland",
-    "optionFour": "India",
-    "correctAns": "Scotland",
-    "explanation": "The 2026 Commonwealth Games were held in Glasgow, Scotland, from July 23 to August 2, 2026.",
-    "category": "Sports"
-  },
-  {
-    "question": "How many medals did India win at the 2026 Commonwealth Games?",
-    "optionOne": "29",
-    "optionTwo": "39",
-    "optionThree": "49",
-    "optionFour": "59",
-    "correctAns": "39",
-    "explanation": "India won 39 medals at the Glasgow Commonwealth Games, comprising 13 gold, 17 silver and 9 bronze medals.",
-    "category": "Sports"
-  },
-  {
-    "question": "Which country hosted the 2026 Asian Beach Games?",
-    "optionOne": "Vietnam",
-    "optionTwo": "China",
-    "optionThree": "Japan",
-    "optionFour": "Indonesia",
-    "correctAns": "China",
-    "explanation": "The 2026 Asian Beach Games were held in Sanya, China, from April 22 to April 30, 2026.",
-    "category": "Sports"
-  },
-  {
-    "question": "Which Indian badminton player finished runner-up in women's singles at the French Open 2026?",
-    "optionOne": "Saina Nehwal",
-    "optionTwo": "PV Sindhu",
-    "optionThree": "Malvika Bansod",
-    "optionFour": "Ashmita Chaliha",
-    "correctAns": "PV Sindhu",
-    "explanation": "PV Sindhu finished runner-up at the 2026 French Open after losing the final to South Korea's An Se Young.",
-    "category": "Sports"
-  },
-  {
-    "question": "Which Indian chess player won individual gold in the open section at the European Chess Club Cup 2026?",
-    "optionOne": "R Praggnanandhaa",
-    "optionTwo": "Arjun Erigaisi",
-    "optionThree": "Nihal Sarin",
-    "optionFour": "D Gukesh",
-    "correctAns": "Nihal Sarin",
-    "explanation": "Indian Grandmaster Nihal Sarin won individual gold in the open section at the European Chess Club Cup 2026.",
-    "category": "Sports"
-  },
-  {
-    "question": "Which Indian chess player won individual gold in the women's section at the European Chess Club Cup 2026?",
-    "optionOne": "Koneru Humpy",
-    "optionTwo": "Harika Dronavalli",
-    "optionThree": "Vaishali Rameshbabu",
-    "optionFour": "Divya Deshmukh",
-    "correctAns": "Koneru Humpy",
-    "explanation": "Koneru Humpy won individual gold in the women's section while representing Cercle d'Echecs de Monte-Carlo.",
-    "category": "Sports"
-  },
-  {
-    "question": "Which Indian space mission's instrument VELC revealed asymmetric expansion of a solar eruption in November 2026?",
-    "optionOne": "Chandrayaan-3",
-    "optionTwo": "Mangalyaan",
-    "optionThree": "Aditya-L1",
-    "optionFour": "AstroSat",
-    "correctAns": "Aditya-L1",
-    "explanation": "The Visible Emission Line Coronagraph (VELC) aboard Aditya-L1 revealed asymmetric expansion of a solar eruption, providing important information about space weather.",
-    "category": "Science & Technology"
-  },
-  {
-    "question": "Which Indian organisation successfully conducted a flight test of the quasi-ballistic missile Pralay in November 2026?",
-    "optionOne": "ISRO",
-    "optionTwo": "DRDO",
-    "optionThree": "HAL",
-    "optionFour": "BHEL",
-    "correctAns": "DRDO",
-    "explanation": "The Defence Research and Development Organisation (DRDO) successfully conducted a flight test of the Pralay quasi-ballistic missile in November 2026.",
-    "category": "Defence"
-  },
-  {
-    "question": "Exercise Malabar 2026 was conducted in which country?",
-    "optionOne": "Japan",
-    "optionTwo": "India",
-    "optionThree": "Australia",
-    "optionFour": "United States",
-    "correctAns": "Japan",
-    "explanation": "The 2026 edition of Exercise Malabar involved naval forces operating in Japan, with Indian Navy ship INS Sahyadri visiting Yokosuka.",
-    "category": "Defence"
-  },
-  {
-    "question": "India conducted the joint military exercise Mitra Shakti 2026 with which country?",
-    "optionOne": "Nepal",
-    "optionTwo": "Sri Lanka",
-    "optionThree": "Bangladesh",
-    "optionFour": "Myanmar",
-    "correctAns": "Sri Lanka",
-    "explanation": "Mitra Shakti is a joint military exercise between India and Sri Lanka. The Indian defence contingent departed for the 2026 edition in November.",
-    "category": "Defence"
-  },
-  {
-    "question": "India and Myanmar commenced which inaugural tri-services joint Humanitarian Assistance and Disaster Relief exercise in November 2026?",
-    "optionOne": "Sampriti",
-    "optionTwo": "RahAT Mitra",
-    "optionThree": "Maitree",
-    "optionFour": "Surya Kiran",
-    "correctAns": "RahAT Mitra",
-    "explanation": "India and Myanmar commenced their inaugural tri-services joint HADR exercise named RahAT Mitra in November 2026.",
-    "category": "Defence"
-  },
-  {
-    "question": "Which Indian state held its Legislative Assembly general election as part of the 2026 Assembly elections?",
-    "optionOne": "Kerala",
-    "optionTwo": "Gujarat",
-    "optionThree": "Rajasthan",
-    "optionFour": "Madhya Pradesh",
-    "correctAns": "Kerala",
-    "explanation": "Kerala was among the states covered by the 2026 Legislative Assembly general elections, which concluded in May 2026.",
-    "category": "Politics"
-  },
-  {
-    "question": "Which institution published the statistical reports for the 2026 Legislative Assembly elections in India?",
-    "optionOne": "NITI Aayog",
-    "optionTwo": "Election Commission of India",
-    "optionThree": "Supreme Court of India",
-    "optionFour": "Ministry of Home Affairs",
-    "correctAns": "Election Commission of India",
-    "explanation": "The Election Commission of India published the index cards and statistical reports for the 2026 Assembly elections on ECINET.",
-    "category": "Politics"
-  },
-  {
-    "question": "Which Indian city is the location of the upcoming Yuge Yugeen Bharat Museum approved by the Union Cabinet in November 2026?",
-    "optionOne": "Mumbai",
-    "optionTwo": "New Delhi",
-    "optionThree": "Kolkata",
+    "question": "Which Indian city hosted the 45th India International Trade Fair (IITF) 2026?",
+    "optionOne": "New Delhi",
+    "optionTwo": "Mumbai",
+    "optionThree": "Bengaluru",
     "optionFour": "Hyderabad",
     "correctAns": "New Delhi",
-    "explanation": "The Union Cabinet approved the development of the Yuge Yugeen Bharat Museum at the North and South Block Complex in New Delhi.",
-    "category": "Government Schemes"
+    "explanation": "The 45th IITF was inaugurated at Bharat Mandapam in New Delhi in November 2026, featuring over 3,500 exhibitors from 30 States and Union Territories.[citation:1]",
+    "category": "Economy"
   },
   {
-    "question": "Which scheme was approved by the Union Cabinet in November 2026 for statistical transformation, analytics and research?",
-    "optionOne": "PM-KISAN",
-    "optionTwo": "VISTAR",
-    "optionThree": "PM Gati Shakti",
-    "optionFour": "Digital India",
-    "correctAns": "VISTAR",
-    "explanation": "The Union Cabinet approved the Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR) for 2026-27 to 2030-31.",
-    "category": "Government Schemes"
+    "question": "According to Union Minister Piyush Goyal, what was India's total export figure in October 2026?",
+    "optionOne": "Approximately $90 billion",
+    "optionTwo": "Approximately $70 billion",
+    "optionThree": "Approximately $110 billion",
+    "optionFour": "Approximately $50 billion",
+    "correctAns": "Approximately $90 billion",
+    "explanation": "India recorded an all-time high export of nearly $90 billion in October 2026, comprising about $50 billion in merchandise and $40 billion in services exports.[citation:1]",
+    "category": "Economy"
+  },
+  {
+    "question": "Where did Prime Minister Narendra Modi attend the 23rd ASEAN-India Summit in November 2026?",
+    "optionOne": "Manila, Philippines",
+    "optionTwo": "Jakarta, Indonesia",
+    "optionThree": "Bangkok, Thailand",
+    "optionFour": "Hanoi, Vietnam",
+    "correctAns": "Manila, Philippines",
+    "explanation": "PM Modi participated in the 23rd ASEAN-India Summit in Manila at the invitation of Philippine President Ferdinand R. Marcos Jr. in November 2026.[citation:8][citation:9]",
+    "category": "International Relations"
+  },
+  {
+    "question": "What is the name of the new alliance formed by AIMIM and Azad Samaj Party ahead of the 2027 Uttar Pradesh Assembly polls?",
+    "optionOne": "Samajik Parivartan Morcha",
+    "optionTwo": "Mahagathbandhan",
+    "optionThree": "Jan Adhikar Morcha",
+    "optionFour": "Samta Party",
+    "correctAns": "Samajik Parivartan Morcha",
+    "explanation": "Asaduddin Owaisi's AIMIM and Chandrashekhar Azad's Azad Samaj Party announced the formation of the 'Samajik Parivartan Morcha' in November 2026, naming Azad as the CM face.[citation:10]",
+    "category": "Politics"
+  },
+  {
+    "question": "Which ministry is organizing the departmental summit 'Samaveshi Niti Sankalp' in November 2026?",
+    "optionOne": "Ministry of Social Justice and Empowerment",
+    "optionTwo": "Ministry of Education",
+    "optionThree": "Ministry of Rural Development",
+    "optionFour": "Ministry of Health and Family Welfare",
+    "correctAns": "Ministry of Social Justice and Empowerment",
+    "explanation": "The Ministry of Social Justice and Empowerment is organizing the 'Samaveshi Niti Sankalp' summit on November 18-19, 2026, focusing on strengthening Centre-State collaboration towards Viksit Bharat@2047.[citation:6]",
+    "category": "Governance"
+  },
+  {
+    "question": "Who inaugurated the first Commonwealth Women Parliamentarians (CWP) India Region Conference in Bengaluru?",
+    "optionOne": "Lok Sabha Speaker Om Birla",
+    "optionTwo": "President Droupadi Murmu",
+    "optionThree": "Vice President Jagdeep Dhankhar",
+    "optionFour": "Defence Minister Rajnath Singh",
+    "correctAns": "Lok Sabha Speaker Om Birla",
+    "explanation": "Lok Sabha Speaker Shri Om Birla inaugurated the First Commonwealth Women Parliamentarians (CWP) India Region Conference in Bengaluru in November 2026.[citation:7]",
+    "category": "Governance"
+  },
+  {
+    "question": "Which country's President welcomed PM Modi for the ASEAN Summit in November 2026?",
+    "optionOne": "Ferdinand R. Marcos Jr.",
+    "optionTwo": "Joko Widodo",
+    "optionThree": "Prayut Chan-o-cha",
+    "optionFour": "Nguyen Xuan Phuc",
+    "correctAns": "Ferdinand R. Marcos Jr.",
+    "explanation": "PM Modi participated in the 23rd India-ASEAN Summit in Manila at the invitation of H.E. Mr. Ferdinand R. Marcos Jr., President of the Republic of the Philippines.[citation:8][citation:11]",
+    "category": "International Relations"
+  },
+  {
+    "question": "What is India's total export target for the current year mentioned by Piyush Goyal?",
+    "optionOne": "$1 trillion",
+    "optionTwo": "$500 billion",
+    "optionThree": "$750 billion",
+    "optionFour": "$2 trillion",
+    "correctAns": "$1 trillion",
+    "explanation": "Union Minister Piyush Goyal stated that India was well on track to achieve its $1 trillion export target in the current year, with exports reaching $570 billion in the first seven months.[citation:1]",
+    "category": "Economy"
+  },
+  {
+    "question": "Which Indian state's Chief Minister face did Asaduddin Owaisi announce for the 2027 polls?",
+    "optionOne": "Uttar Pradesh",
+    "optionTwo": "Bihar",
+    "optionThree": "Maharashtra",
+    "optionFour": "Karnataka",
+    "correctAns": "Uttar Pradesh",
+    "explanation": "Owaisi announced that Chandrashekhar Azad will be the Samajik Parivartan Morcha coalition's Chief Ministerial face for the 2027 Uttar Pradesh State election.[citation:10]",
+    "category": "Politics"
+  },
+  {
+    "question": "What did the National Investigation Agency (NIA) register a case for in November 2026 regarding Pakistan-based gangster Shahzad Bhatti?",
+    "optionOne": "Online radicalisation of Indian youths",
+    "optionTwo": "Money laundering operations",
+    "optionThree": "Drug trafficking network",
+    "optionFour": "Cyber fraud against banks",
+    "correctAns": "Online radicalisation of Indian youths",
+    "explanation": "The NIA registered a case to probe the online radicalisation of Indian youths by Pakistan-based gangster Shahzad Bhatti and other ISI agents with the intention to carry out terror attacks.[citation:10]",
+    "category": "Security"
+  },
+  {
+    "question": "Who is the Chairperson of the Commonwealth Women Parliamentarians (CWP) India Region?",
+    "optionOne": "Dr. Daggubati Purandeswari",
+    "optionTwo": "Smriti Irani",
+    "optionThree": "Supriya Sule",
+    "optionFour": "Kanimozhi Karunanidhi",
+    "correctAns": "Dr. Daggubati Purandeswari",
+    "explanation": "Dr. Daggubati Purandeswari is the Chairperson of the Commonwealth Women Parliamentarians Conference in India Region.[citation:7]",
+    "category": "Governance"
+  },
+  {
+    "question": "What percentage of women's representation in Lok Sabha and State Assemblies does the Nari Shakti Vandan Adhiniyam provide for?",
+    "optionOne": "33 percent",
+    "optionTwo": "50 percent",
+    "optionThree": "25 percent",
+    "optionFour": "40 percent",
+    "correctAns": "33 percent",
+    "explanation": "The Nari Shakti Vandan Adhiniyam enacted in 2023 provides for 33 per cent representation of women in the Lok Sabha and State Legislative Assemblies.[citation:7]",
+    "category": "Governance"
+  },
+  {
+    "question": "Which two Indian states/UTs received Fifteenth Finance Commission grants for Panchayati Raj Institutions as mentioned in February 2026?",
+    "optionOne": "Madhya Pradesh, Punjab and Telangana",
+    "optionTwo": "Maharashtra, Gujarat and Rajasthan",
+    "optionThree": "Kerala, Tamil Nadu and Karnataka",
+    "optionFour": "Bihar, Jharkhand and Odisha",
+    "correctAns": "Madhya Pradesh, Punjab and Telangana",
+    "explanation": "The Central Government released over 1,100 crore rupees as Fifteenth Finance Commission grants to strengthen Panchayati Raj Institutions in Madhya Pradesh, Punjab and Telangana.[citation:2]",
+    "category": "Governance"
+  },
+  {
+    "question": "What is the theme of the ASEAN chairship under Philippines President Marcos, as mentioned by PM Modi?",
+    "optionOne": "Navigating Our Future, Together",
+    "optionTwo": "Building a Resilient Community",
+    "optionThree": "Towards a People-Centered ASEAN",
+    "optionFour": "Unity in Diversity",
+    "correctAns": "Navigating Our Future, Together",
+    "explanation": "PM Modi congratulated President Marcos for the successful chairship of ASEAN under the theme 'Navigating Our Future, Together'.[citation:8]",
+    "category": "International Relations"
+  },
+  {
+    "question": "Which operation did Delhi Police launch in February 2026 to address weapon sharing and abusive online speech?",
+    "optionOne": "Operation Shastra",
+    "optionTwo": "Operation Kavach",
+    "optionThree": "Operation Suraksha",
+    "optionFour": "Operation Cyber Shield",
+    "correctAns": "Operation Shastra",
+    "explanation": "Delhi Police launched Operation Shastra to target individuals sharing pictures of themselves with weapons on social media and using abusive language.[citation:2]",
+    "category": "Security"
+  },
+  {
+    "question": "Which Indian state's government intervened to repatriate seafarer Akshay H. stranded in Iran?",
+    "optionOne": "Kerala",
+    "optionTwo": "Tamil Nadu",
+    "optionThree": "Karnataka",
+    "optionFour": "Andhra Pradesh",
+    "correctAns": "Kerala",
+    "explanation": "The Keralam government intervened to ensure the safe return of seafarer Akshay H., a native of Prakkulam in Kollam, who was stranded in Bandar Lengeh, Iran, without travel documents.[citation:10]",
+    "category": "Governance"
+  },
+  {
+    "question": "What did PM Modi say the India-US trade agreement reflects about the world order?",
+    "optionOne": "World order is changing and tilting towards India",
+    "optionTwo": "World order is becoming more protectionist",
+    "optionThree": "World order is dominated by China",
+    "optionFour": "World order is stable and unchanging",
+    "correctAns": "World order is changing and tilting towards India",
+    "explanation": "PM Modi said India's landmark trade agreement with the United States reflects that the world order is changing and its trajectory is increasingly tilting towards India.[citation:4]",
+    "category": "Economy"
+  },
+  {
+    "question": "How many ASEAN member countries does India have direct flights to, as mentioned by PM Modi?",
+    "optionOne": "Nine",
+    "optionTwo": "Eleven",
+    "optionThree": "Seven",
+    "optionFour": "Five",
+    "correctAns": "Nine",
+    "explanation": "PM Modi stated that direct flights connect India with nine ASEAN countries, reflecting the growing closeness of ties.[citation:5]",
+    "category": "International Relations"
+  },
+  {
+    "question": "Which Indian institution's budget allocation increased to more than 5,000 crore rupees in the Union Budget 2026-27?",
+    "optionOne": "AIIMS Delhi",
+    "optionTwo": "IIT Delhi",
+    "optionThree": "ISRO",
+    "optionFour": "DRDO",
+    "correctAns": "AIIMS Delhi",
+    "explanation": "AIIMS Delhi hailed the Union Budget 2026-27 for its health focus, noting that its budget allocation increased to more than 5,000 crore rupees.[citation:4]",
+    "category": "Health"
+  },
+  {
+    "question": "What year is being marked as the ASEAN-India Year of Maritime Cooperation?",
+    "optionOne": "2026",
+    "optionTwo": "2025",
+    "optionThree": "2027",
+    "optionFour": "2028",
+    "correctAns": "2026",
+    "explanation": "India and ASEAN are marking 2026 as the ASEAN-India Year of Maritime Cooperation, ahead of the 35th anniversary of dialogue relations in 2027.[citation:5]",
+    "category": "International Relations"
   }
 ]
